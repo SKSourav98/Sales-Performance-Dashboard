@@ -1,20 +1,19 @@
-# Super Store Sales  
+# Super Store Sales  🚀
 
-***Sales-Performance-Analysis***
+## ***Sales Performance  Analysis***
 
 A retail company ("Global Superstore") operates across multiple regions in the United States, selling products in three main categories: Furniture, Office Supplies, and Technology. The management has observed fluctuating profits despite consistent sales growth. Some orders show losses due to high discounts, shipping delays, and unprofitable product lines.
 
-The leadership team wants data-driven insights to answer the following key business questions:
+***Tools used 👍:-***
 
-***Tools used:-***
+1. mySQL 🎯
+2. power BI 🎯
 
-1. mySQL
-2. power BI
-
+## 📝 The leadership team wants data-driven insights to answer the following key business questions:
    
-***Task_01:***  Sales & Profitability
+***Task_01:***  Sales & Profitability 📊
 
-1. KPI:
+1. KPI 👥
    a) Total Sales = SUM(Sales)
    b) Total Profit = SUM(Profit)
    c) Profit Margin % = SUM(Profit) / SUM(Sales) × 100
@@ -26,9 +25,9 @@ The leadership team wants data-driven insights to answer the following key busin
 3. Which products, categories, and sub-categories are the most and least profitable?
 4. Are there any loss-making products that should be discontinued?
 
-***Task_02:***  Customer Insights
+***Task_02:***  Customer Insights 📝
 
-1. KPI:
+1. KPI 👥
    a) Total Customers = COUNT(DISTINCT Customer ID)
    b) Sales per Customer Segment (Consumer, Corporate, Home Office)
    c) Top 10 Customers by Sales
@@ -39,9 +38,9 @@ The leadership team wants data-driven insights to answer the following key busin
 3. How do different customer segments (Consumer, Corporate, Home Office) perform in terms of revenue and profit?
 4. What is the customer retention rate (repeat vs. one-time customers)?
 
-***Task_03:***   Regional & Market Insights
+***Task_03:***   Regional & Market Insights 🌍
 
-1. KPI
+1. KPI 👥
    a) Sales by Region (West, East, South, Central)
    b) Profit by Region
    c) Sales by State/City
@@ -52,9 +51,9 @@ The leadership team wants data-driven insights to answer the following key busin
 3. Which areas consistently generate losses?
 4. How does shipping mode and delivery time impact customer satisfaction and profitability?
 
-***Task_04:***  Discount & Shipping Impact
+***Task_04:***  Discount & Shipping Impact 🚚
 
-1. KPI:
+1. KPI 👥
    a) Sales by Ship Mode (Standard, Second Class, etc.)
    b) Profitability by Ship Mode
    c) Average Discount Given
@@ -64,9 +63,9 @@ The leadership team wants data-driven insights to answer the following key busin
 2. Are high discounts driving sales or eroding profits?
 3. Which shipping modes are most cost-effective and profitable?
 
-***Task_05:***  Time-based Performance
+***Task_05:***  Time-based Performance ⏳
 
-1. KPI:
+1. KPI 👥
    a) Monthly Sales Trend
    b) Year-over-Year Growth
    c) Quarterly Profit Margin
@@ -77,9 +76,9 @@ The leadership team wants data-driven insights to answer the following key busin
 3. Are there any seasonal peaks in demand?
 4. How has the company’s growth rate changed over time?
 
-***Task_06:***  Order & Product performance
+***Task_06:***  Order & Product performance 📦
 
-1. KPI:
+1. KPI 👥
    a) Total Orders = COUNT(DISTINCT Order ID)
    b) Total Quantity Sold = SUM(Quantity)
    c) Average Order Value (AOV) = SUM(Sales) / COUNT(DISTINCT Order ID)
@@ -120,35 +119,35 @@ The leadership team wants data-driven insights to answer the following key busin
 31. Which products drive repeat orders (customer loyalty)?
 
 
-***Dashboard prepared using power bI***
+## 📊 ***Dashboard prepared using 👉 power bI***
 
 1. Executive Overview Dashboard (CEO / Top Management) :
    
-   🔹 Purpose: Quick view of company performance
+   🔹 Purpose: Quick view of company performance ✅
    
 2. Sales Performance Dashboard (Sales Manager) :
    
-   🔹 Purpose: Track revenue & orders
+   🔹 Purpose: Track revenue & orders ✅
    
 3. Profitability Dashboard (Finance / Strategy) :
    
-   🔹 Purpose: Identify what drives or hurts profit
+   🔹 Purpose: Identify what drives or hurts profit ✅
    
 4. Order & Product Performance Dashboard (Product Manager) :
    
-   🔹 Purpose: Monitor product & order efficiency
+   🔹 Purpose: Monitor product & order efficiency ✅
    
 5. Customer Insights Dashboard (Customer Relationship Team) :
     
-   🔹 Purpose: Understand customer value & retention
+   🔹 Purpose: Understand customer value & retention ✅
   
 6. Regional & Market Dashboard (Regional Manager):
     
-   🔹 Purpose: Focus on geography performance
+   🔹 Purpose: Focus on geography performance ✅
    
-7. Shipping & Discount Dashboard (Operations / Logistics) :
+7. Shipping & Discount Dashboard (Operations / Logistics) : 🚚
     
-   🔹 Purpose: Optimize delivery & discount strategy
+   🔹 Purpose: Optimize delivery & discount strategy ✅
 
 
 
