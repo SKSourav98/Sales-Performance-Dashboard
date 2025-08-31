@@ -13,16 +13,17 @@ A retail company ("Global Superstore") operates across multiple regions in the U
    
 ***Task_01:***  Sales & Profitability 📊
 
-1. KPI 👥 \n
-   a) Total Sales = SUM(Sales) \n
-   b) Total Profit = SUM(Profit) \n
-   c) Profit Margin % = SUM(Profit) / SUM(Sales) × 100 \n
-   d) Average Sales per Order = SUM(Sales) / COUNT(DISTINCT Order ID) \n
-   e) Average Profit per Order = SUM(Profit) / COUNT(DISTINCT Order ID) \n
-   f) Sales per Customer = SUM(Sales) / COUNT(DISTINCT Customer ID) \n
-  
-2. Which products, categories, and sub-categories are the most and least profitable?
-3. Are there any loss-making products that should be discontinued?
+1. ***KPI 👥***
+   
+   1. Total Sales = SUM(Sales)
+   2. Total Profit = SUM(Profit)
+   3. Profit Margin % = SUM(Profit) / SUM(Sales) × 100
+   4. Average Sales per Order = SUM(Sales) / COUNT(DISTINCT Order ID)
+   5. Average Profit per Order = SUM(Profit) / COUNT(DISTINCT Order ID)
+   6. Sales per Customer = SUM(Sales) / COUNT(DISTINCT Customer ID) 
+
+3. Which products, categories, and sub-categories are the most and least profitable?
+4. Are there any loss-making products that should be discontinued?
 
 ***Task_02:***  Customer Insights 📝
 
