@@ -12,7 +12,7 @@ The leadership team wants data-driven insights to answer the following key busin
 2. power BI
 
    
-***Task_01:*** Sales & Profitability
+***Task_01:***  Sales & Profitability
 
 1. KPI:
    a) Total Sales = SUM(Sales)
@@ -26,7 +26,7 @@ The leadership team wants data-driven insights to answer the following key busin
 3. Which products, categories, and sub-categories are the most and least profitable?
 4. Are there any loss-making products that should be discontinued?
 
-***Task_02:*** Customer Insights
+***Task_02:***  Customer Insights
 
 1. KPI:
    a) Total Customers = COUNT(DISTINCT Customer ID)
@@ -39,7 +39,7 @@ The leadership team wants data-driven insights to answer the following key busin
 3. How do different customer segments (Consumer, Corporate, Home Office) perform in terms of revenue and profit?
 4. What is the customer retention rate (repeat vs. one-time customers)?
 
-***Task_03:*** Regional & Market Insights
+***Task_03:***   Regional & Market Insights
 
 1. KPI
    a) Sales by Region (West, East, South, Central)
@@ -52,7 +52,7 @@ The leadership team wants data-driven insights to answer the following key busin
 3. Which areas consistently generate losses?
 4. How does shipping mode and delivery time impact customer satisfaction and profitability?
 
-***Task_04:***Discount & Shipping Impact
+***Task_04:***  Discount & Shipping Impact
 
 1. KPI:
    a) Sales by Ship Mode (Standard, Second Class, etc.)
@@ -64,7 +64,7 @@ The leadership team wants data-driven insights to answer the following key busin
 2. Are high discounts driving sales or eroding profits?
 3. Which shipping modes are most cost-effective and profitable?
 
-***Task_05:*** Time-based Performance
+***Task_05:***  Time-based Performance
 
 1. KPI:
    a) Monthly Sales Trend
@@ -77,7 +77,7 @@ The leadership team wants data-driven insights to answer the following key busin
 3. Are there any seasonal peaks in demand?
 4. How has the company’s growth rate changed over time?
 
-***Task_06:*** Order & Product performance
+***Task_06:***  Order & Product performance
 
 1. KPI:
    a) Total Orders = COUNT(DISTINCT Order ID)
