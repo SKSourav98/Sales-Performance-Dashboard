@@ -145,7 +145,7 @@ A retail company ("Global Superstore") operates across multiple regions in the U
     
    🔹 Purpose: Focus on geography performance ✅
    
-7. Shipping & Discount Dashboard (Operations / Logistics) : 🚚
+7. Shipping & Discount Dashboard (Operations / Logistics) : 
     
    🔹 Purpose: Optimize delivery & discount strategy ✅
 
