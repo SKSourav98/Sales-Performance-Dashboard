@@ -40,16 +40,14 @@ A retail company ("Global Superstore") operates across multiple regions in the U
 ***Task_03:***   Regional & Market Insights 🌍
 
 1. KPI 👥
-   a) Sales by Region (West, East, South, Central)
-   b) Profit by Region
-   c) Sales by State/City
-   d) Top 5 Cities by Sales
-   e) Least Profitable States
+   a) most profitable region,state and city
+   b) Least Profitable region,state and city
    
-2. Which regions, states, and cities are the most profitable?
-3. Which areas consistently generate losses?
-4. How does shipping mode and delivery time impact customer satisfaction and profitability?
-
+2. profit by regions, states, and cities ,Top and bottom 2?
+3. sales by regions, states, and cities, Top and bottom 2 ?
+4. Which region,state and city consistently generate losses?
+5. How does shipping mode and delivery time impact customer satisfaction and profitability?
+   
 ***Task_04:***  Discount & Shipping Impact 🚚
 
 1. KPI 👥
