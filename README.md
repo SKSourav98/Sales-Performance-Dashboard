@@ -30,13 +30,12 @@ A retail company ("Global Superstore") operates across multiple regions in the U
 1. KPI 👥
    a) Total Customers = COUNT(DISTINCT Customer ID)
    b) Sales per Customer Segment (Consumer, Corporate, Home Office)
-   c) Top 10 Customers by Sales
-   d) Customer Retention Rate (repeat orders vs. one-time customers)
-   e) Average Profit per Customer
+   c) Customer Retention Rate (repeat orders vs. one-time customers)
+   d) Average Profit per Customer
   
 2. Who are the top 10 customers by sales and profit?
 3. How do different customer segments (Consumer, Corporate, Home Office) perform in terms of revenue and profit?
-4. What is the customer retention rate (repeat vs. one-time customers)?
+
 
 ***Task_03:***   Regional & Market Insights 🌍
 
