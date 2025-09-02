@@ -54,11 +54,10 @@ A retail company ("Global Superstore") operates across multiple regions in the U
    a) Sales by Ship Mode (Standard, Second Class, etc.)
    b) Profitability by Ship Mode
    c) Average Discount Given
-   d) Sales Lost due to High Discounts (where Discount > 0.3 and Profit < 0)
 
-1. How do discount levels affect profitability?
-2. Are high discounts driving sales or eroding profits?
-3. Which shipping modes are most cost-effective and profitable?
+2. How do discount levels affect profitability?
+3. Are high discounts driving sales or eroding profits?
+4. Which shipping modes are most cost-effective and profitable?
 
 ***Task_05:***  Time-based Performance ⏳
 
